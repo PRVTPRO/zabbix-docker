@@ -8,5 +8,7 @@ Simple setup (All in one)
 ```
 docker compose -f zabbix.yml up --build -d
 ```
+Credentials:
+Admin:zabbix
 
 The configuration will launch a ready-made zabbix project with pgsql timecaledb
