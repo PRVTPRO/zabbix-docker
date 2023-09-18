@@ -1,5 +1,5 @@
 # zabbix-docker
-zabbix-docker
+Simple setup (All in one)
 
 1) Git clone repo
 
